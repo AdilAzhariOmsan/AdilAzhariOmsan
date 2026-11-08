@@ -17,7 +17,7 @@ Currently a Full-Stack Laravel Engineer at **Sentients AI**. Open to backend Lar
 
 #### 🛠 Projects
 - **[Madarik](https://madarik.aljebal-albeedos.com)**: multi-tenant school management SaaS in production at a 500-student school (Laravel, React, Inertia)
-- **[Nexo e-commerce](https://github.com/AdilAzhari/nexo-ecommerce)**: modular DDD Laravel store with multi-tenancy ([live demo](https://store.aljebal-albeedos.com))
+- **[Nexo e-commerce](https://github.com/AdilAzhari/nexo-ecommerce)**: v1 of my modular DDD Laravel store with multi-tenancy; now being rebuilt as Nexo 2.0
 - **Kilat Car Wash** (private): multi-branch booking and operations platform: 46 screens, 4 roles, 232 tests (Laravel 13, React 19, Reverb)
 
 **Stack:** PHP · Laravel · MySQL · Redis · Pest/PHPUnit · PHPStan · Vue 3 · React · Inertia · TypeScript

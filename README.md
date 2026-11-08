@@ -6,7 +6,7 @@ Currently a Full-Stack Laravel Engineer at **Sentients AI**. Open to backend Lar
 
 #### 📦 Packages I maintain
 - **[laravel-idempotency](https://github.com/AdilAzhariOmsan/laravel-idempotency)**: stops duplicate execution of HTTP requests and queued jobs, with per-user scoped keys, request fingerprinting, response replay and cache locking. 96% coverage, v1.1 on [Packagist](https://packagist.org/packages/adilazhari/laravel-idempotency).
-- **[laravel-trace](https://github.com/AdilAzhari/laravel-trace)**: application-level tracing for Laravel: request, query and queued-job spans, context propagated across queues and HTTP, memory and database storage. v0.1 on [Packagist](https://packagist.org/packages/adilazhari/laravel-trace).
+- **[laravel-trace](https://github.com/AdilAzhariOmsan/laravel-trace)**: application-level tracing for Laravel: request, query and queued-job spans, context propagated across queues and HTTP, memory and database storage. v0.1 on [Packagist](https://packagist.org/packages/adilazhari/laravel-trace).
 
 #### 🔧 Merged upstream
 - **laravel/horizon** [#1819](https://github.com/laravel/horizon/pull/1819): "Delayed Until" showed the push time for jobs delayed with a `CarbonInterval`
